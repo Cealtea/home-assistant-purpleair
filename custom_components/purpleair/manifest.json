@@ -9,6 +9,8 @@
   "homekit": {},
   "dependencies": [],
   "codeowners": [
-    "@gibwar"
-  ]
+    "@gibwar",
+    "@cealtea"
+  ],
+  "version": "1.0"
 }
